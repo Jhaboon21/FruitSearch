@@ -1,0 +1,30 @@
+.header {
+  text-align: center;
+}
+body {
+  background-color: #29bdc1;
+}
+input {
+  position: relative;
+  text-align: center;
+
+  left: 25%;
+  right: 25%;
+  width: 60%;
+  background-color: #bdc129;
+  font-size: 4rem;
+}
+#suggestions {
+  position: relative;
+  width: 60%;
+  left: 25%;
+  right: 25%;
+  border: 2px dotted #ccc;
+} 
+ul {
+  font-size: 2rem;
+  font-weight: bold;
+} 
+.hover {
+  background-color: grey;
+}
