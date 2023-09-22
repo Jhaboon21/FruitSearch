@@ -25,6 +25,6 @@ ul {
   font-size: 2rem;
   font-weight: bold;
 } 
-.hover {
+ul:hover {
   background-color: grey;
 }
